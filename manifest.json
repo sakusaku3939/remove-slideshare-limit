@@ -1,5 +1,5 @@
 {
-  "name": "Hide slideshare limit",
+  "name": "Remove slideshare limit",
   "version": "1.0.0",
   "manifest_version": 3,
   "description": "Remove slide viewing restrictions on slideshare.",
