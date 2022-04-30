@@ -1,0 +1,16 @@
+{
+  "name": "Hide slideshare limit",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Remove slide viewing restrictions on slideshare.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.slideshare.net/*/*"
+      ],
+      "js": [
+        "main.js"
+      ]
+    }
+  ]
+}

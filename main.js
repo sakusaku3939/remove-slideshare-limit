@@ -1,0 +1,1 @@
+document.getElementsByClassName("limit-overlay")[0].remove();
